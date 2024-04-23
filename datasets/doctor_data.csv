@@ -1,0 +1,310 @@
+,Unnamed: 0,disease,doctor,city
+0,0,Fungal infection,Deondre Fritsch,Pune
+1,1,Fungal infection,Leola Rath,Delhi 
+2,2,Fungal infection,Chesley Spencer,New York
+3,3,Fungal infection,Trudie Runte,Paris
+4,4,Allergy,Mrs. Ardella Borer,France
+5,5,Allergy,Marcella Bailey,Bengaluru
+6,6,GERD,Ericka Beer,Mumbai
+7,7,GERD,Gregg Mueller,Kolkata
+8,8,GERD,Dr. Desiree Wilderman,Chicago
+9,9,Chronic cholestasis,Miss Tierra Medhurst,Dhaka
+10,10,Chronic cholestasis,Clyde Grady,Pune
+11,11,Chronic cholestasis,Madilyn Kihn,Delhi 
+12,12,Chronic cholestasis,Kraig Block,New York
+13,13,Chronic cholestasis,Kaela Medhurst PhD,Paris
+14,14,Chronic cholestasis,Ludwig Braun,France
+15,15,Chronic cholestasis,Titus Fadel,Bengaluru
+16,16,Drug Reaction,Keshawn Ankunding,Mumbai
+17,17,Drug Reaction,Wyatt Block,Kolkata
+18,18,Drug Reaction,Mandy Roberts,Chicago
+19,19,Drug Reaction,Mrs. Scot Wiegand,Dhaka
+20,20,Drug Reaction,Ms. Jerod Wolff,Pune
+21,21,Drug Reaction,Isaac Will V,Delhi 
+22,22,Drug Reaction,Lula Heidenreich,New York
+23,23,Drug Reaction,Ayden Dare,Paris
+24,24,Peptic ulcer disease,Doris Murphy,France
+25,25,Peptic ulcer disease,Lemuel Dicki,Bengaluru
+26,26,Peptic ulcer disease,Garnett Parker,Mumbai
+27,27,Peptic ulcer disease,Ms. Jeremie Schamberger,Kolkata
+28,28,Peptic ulcer disease,Eryn Nitzsche,Chicago
+29,29,Peptic ulcer disease,Nels Crona,Dhaka
+30,30,Peptic ulcer disease,Janice Reichert,Pune
+31,31,Peptic ulcer disease,Mrs. Angus Haley,Delhi 
+32,32,Peptic ulcer disease,Adele DuBuque I,New York
+33,33,AIDS,Rowan Deckow,Paris
+34,34,AIDS,Mrs. Gerson Olson,France
+35,35,AIDS,Zane King,Bengaluru
+36,36,AIDS,Mr. Gustave Hessel,Mumbai
+37,37,AIDS,Maria Turner,Kolkata
+38,38,AIDS,Pearl Zboncak,Chicago
+39,39,AIDS,Orlo Reilly,Dhaka
+40,40,AIDS,Dr. Sadie Kuhn,Pune
+41,41,Diabetes,Maximillia Hagenes,Delhi 
+42,42,Diabetes,Arnoldo O'Kon,New York
+43,43,Diabetes,Valentin Feeney,Paris
+44,44,Diabetes,Charity Funk DDS,France
+45,45,Gastroenteritis,Noemy Kuphal,Bengaluru
+46,46,Gastroenteritis,Peter Smitham,Mumbai
+47,47,Gastroenteritis,Jerad Orn,Kolkata
+48,48,Gastroenteritis,Rafaela Heller,Chicago
+49,49,Gastroenteritis,Lina Grimes III,Dhaka
+50,50,Gastroenteritis,Natasha Parisian PhD,Pune
+51,51,Bronchial Asthma,Candice Berge,Delhi 
+52,52,Bronchial Asthma,Dr. Mozell Price,New York
+53,53,Hypertension,Jedidiah Sanford,Paris
+54,54,Hypertension,Isabella Abshire,France
+55,55,Hypertension,Houston Schinner,Bengaluru
+56,56,Hypertension,Adonis Hoeger,Mumbai
+57,57,Hypertension,Dr. Myra Halvorson,Kolkata
+58,58,Hypertension,Deja Botsford,Chicago
+59,59,Hypertension,Cesar Eichmann,Dhaka
+60,60,Migraine,Rowland Botsford,Pune
+61,61,Migraine,Zoey Kuhn,Delhi 
+62,62,Migraine,Delta Blick,New York
+63,63,Migraine,Fanny Daugherty,Paris
+64,64,Migraine,Anabelle Buckridge,France
+65,65,Migraine,Dr. Royal Grant,Bengaluru
+66,66,Migraine,Maryjane Boehm,Mumbai
+67,67,Migraine,Gerardo Lesch,Kolkata
+68,68,Migraine,Annamarie Turcotte,Chicago
+69,69,Migraine,Miss Obie Robel,Dhaka
+70,70,Cervical spondylosis,Dessie Jacobi V,Pune
+71,71,Cervical spondylosis,Ms. Kurt Mayer,Delhi 
+72,72,Cervical spondylosis,Norwood Prohaska,New York
+73,73,Cervical spondylosis,Mrs. Jedediah Hills,Paris
+74,74,Cervical spondylosis,Scotty Lubowitz,France
+75,75,Cervical spondylosis,Alfred Reichel,Bengaluru
+76,76,Cervical spondylosis,Timmy Kirlin DDS,Mumbai
+77,77,Cervical spondylosis,Garnett Dicki,Kolkata
+78,78,Cervical spondylosis,Emmet Barton,Chicago
+79,79,Cervical spondylosis,Terry Barton,Dhaka
+80,80,Paralysis (brain hemorrhage),Brady Strosin,Pune
+81,81,Paralysis (brain hemorrhage),Jed Schneider,Delhi 
+82,82,Paralysis (brain hemorrhage),Ervin Treutel,New York
+83,83,Paralysis (brain hemorrhage),Rosemary Jewess,Paris
+84,84,Paralysis (brain hemorrhage),Abby Schamberger,France
+85,85,Paralysis (brain hemorrhage),Ewald Jewess,Bengaluru
+86,86,Paralysis (brain hemorrhage),Mrs. Kaelyn Leuschke,Mumbai
+87,87,Paralysis (brain hemorrhage),Rashad Windler,Kolkata
+88,88,Paralysis (brain hemorrhage),Remington Stoltenberg,Chicago
+89,89,Paralysis (brain hemorrhage),Lela McGlynn,Dhaka
+90,90,Jaundice,Daniela Corkery,Pune
+91,91,Jaundice,Billy Waters,Delhi 
+92,92,Jaundice,Jordane Doyle,New York
+93,93,Jaundice,Raphael Lubowitz,Paris
+94,94,Jaundice,Gilberto Altenwerth,France
+95,95,Jaundice,Deondre O'Connell,Bengaluru
+96,96,Jaundice,Audie Balistreri,Mumbai
+97,97,Jaundice,Sammy Morissette,Kolkata
+98,98,Jaundice,Emmalee Bailey PhD,Chicago
+99,99,Jaundice,Nico Hammes,Dhaka
+100,100,Malaria,Miss Neil Pfeffer,Pune
+101,101,Malaria,Lera Buckridge DDS,Delhi 
+102,102,Malaria,Dr. Ashton Cole,New York
+103,103,Malaria,Sammy Schowalter DDS,Paris
+104,104,Malaria,Anna Bednar,France
+105,105,Malaria,Mrs. Mertie Graham,Bengaluru
+106,106,Malaria,Mekhi Becker,Mumbai
+107,107,Malaria,Katherine Moen,Kolkata
+108,108,Malaria,Miss Rachel Padberg,Chicago
+109,109,Malaria,Ayla Hamill,Dhaka
+110,110,Chicken pox,Ashlynn Lynch,Pune
+111,111,Chicken pox,Osborne Cummings,Delhi 
+112,112,Chicken pox,Mikel Carter,New York
+113,113,Chicken pox,Dr. Brook Collins,Paris
+114,114,Chicken pox,Cynthia Dickens,France
+115,115,Chicken pox,Ms. Isabelle Hintz,Bengaluru
+116,116,Dengue,Ronaldo Mann,Mumbai
+117,117,Dengue,Dewayne Wisozk,Kolkata
+118,118,Dengue,Walter Smith,Chicago
+119,119,Dengue,Anastacio Gutkowski,Dhaka
+120,120,Dengue,Lenna Mills,Pune
+121,121,Dengue,Otilia Welch,Delhi 
+122,122,Dengue,Destinee Mayer,New York
+123,123,Typhoid,Fidel Kihn,Paris
+124,124,Typhoid,Natalie Schowalter,France
+125,125,Typhoid,Vaughn Kerluke,Bengaluru
+126,126,Typhoid,Jettie Harber,Mumbai
+127,127,Typhoid,Austyn Ferry,Kolkata
+128,128,Typhoid,Jadyn D'Amore,Chicago
+129,129,Typhoid,Lisandro Gulgowski,Dhaka
+130,130,Typhoid,Seth Romaguera,Pune
+131,131,Typhoid,Karelle Leannon,Delhi 
+132,132,Typhoid,Robert Purdy,New York
+133,133,hepatitis A,Mrs. Fletcher Doyle,Paris
+134,134,hepatitis A,Dedrick Leannon DVM,France
+135,135,hepatitis A,Robyn Keeling,Bengaluru
+136,136,hepatitis A,Guiseppe Sauer,Mumbai
+137,137,hepatitis A,Augustine Kozey,Kolkata
+138,138,hepatitis A,Serenity Miller,Chicago
+139,139,hepatitis A,Eugene Goldner IV,Dhaka
+140,140,hepatitis A,Reymundo Kozey,Pune
+141,141,hepatitis A,Melissa Grimes,Delhi 
+142,142,hepatitis A,Jaycee Crooks,New York
+143,143,Hepatitis B,Cade Gutkowski,Paris
+144,144,Hepatitis B,Vivian Towne,France
+145,145,Hepatitis B,Leann Crooks,Bengaluru
+146,146,Hepatitis B,Camylle Stoltenberg,Mumbai
+147,147,Hepatitis B,Dr. Esta Collins,Kolkata
+148,148,Hepatitis B,Zackery Schowalter,Chicago
+149,149,Hepatitis B,Arvid Dibbert,Dhaka
+150,150,Hepatitis B,Mr. Loyce Mohr,Pune
+151,151,Hepatitis B,Orion Hoppe,Delhi 
+152,152,Hepatitis B,Emilia Thompson,New York
+153,153,Hepatitis C,Columbus Walter,Paris
+154,154,Hepatitis C,Dahlia Spencer IV,France
+155,155,Hepatitis C,Dashawn Fritsch DVM,Bengaluru
+156,156,Hepatitis C,Mara Sanford,Mumbai
+157,157,Hepatitis C,Rod Davis,Kolkata
+158,158,Hepatitis C,Rae Satterfield,Chicago
+159,159,Hepatitis C,Mr. Ludwig Runte,Dhaka
+160,160,Hepatitis C,Royal Oberbrunner,Pune
+161,161,Hepatitis C,Alicia Schulist,Delhi 
+162,162,Hepatitis C,Tiara Bashirian,New York
+163,163,Hepatitis D,Florian Kemmer,Paris
+164,164,Hepatitis D,Junius Littel,France
+165,165,Hepatitis D,Melba Quigley,Bengaluru
+166,166,Hepatitis D,Junius Hand,Mumbai
+167,167,Hepatitis D,Marley Watsica,Kolkata
+168,168,Hepatitis D,Dr. Kenton Harris,Chicago
+169,169,Hepatitis D,Iliana Rath,Dhaka
+170,170,Hepatitis D,Sasha Schroeder,Pune
+171,171,Hepatitis D,Donny Ernser Jr.,Delhi 
+172,172,Hepatitis D,Jazmyne Maggio,New York
+173,173,Hepatitis E,Merritt Mayert,Paris
+174,174,Hepatitis E,Loyce Kunze,France
+175,175,Hepatitis E,Marquis Stoltenberg,Bengaluru
+176,176,Hepatitis E,Brandt Dibbert,Mumbai
+177,177,Hepatitis E,Easter Kulas,Kolkata
+178,178,Hepatitis E,Domingo Heidenreich,Chicago
+179,179,Hepatitis E,Ms. Cora Daniel,Dhaka
+180,180,Hepatitis E,Dedric Hilll,Pune
+181,181,Hepatitis E,Jasen Bartoletti,Delhi 
+182,182,Hepatitis E,Aidan Koelpin,New York
+183,183,Alcoholic hepatitis,Amina Hauck,Paris
+184,184,Alcoholic hepatitis,Mrs. Larissa Gibson,France
+185,185,Alcoholic hepatitis,Lavinia Kunde,Bengaluru
+186,186,Alcoholic hepatitis,Evelyn Jones DDS,Mumbai
+187,187,Alcoholic hepatitis,Alyson McCullough,Kolkata
+188,188,Alcoholic hepatitis,Miss Jayson Pacocha,Chicago
+189,189,Alcoholic hepatitis,Desmond Beahan,Dhaka
+190,190,Alcoholic hepatitis,Lelah Zboncak,Pune
+191,191,Alcoholic hepatitis,Horacio Harªann,Delhi 
+192,192,Alcoholic hepatitis,Evie Satterfield,New York
+193,193,Tuberculosis,Evans Skiles,Paris
+194,194,Tuberculosis,Mr. Kiana Gleason,France
+195,195,Tuberculosis,Reilly Beatty,Bengaluru
+196,196,Tuberculosis,Shanelle Wisoky,Mumbai
+197,197,Tuberculosis,Allison Stanton Sr.,Kolkata
+198,198,Tuberculosis,Lottie Pacocha V,Chicago
+199,199,Common Cold,Ola Keeling,Dhaka
+200,200,Common Cold,Skylar Spinka,Pune
+201,201,Common Cold,Noemi Pfeffer III,Delhi 
+202,202,Common Cold,Dr. Mervin Eichmann,New York
+203,203,Common Cold,Dr. Orlo Reichert,Paris
+204,204,Common Cold,Rowland Witting MD,France
+205,205,Common Cold,Stanton Botsford,Bengaluru
+206,206,Common Cold,Baron Schuster,Mumbai
+207,207,Common Cold,Peyton Wunsch,Kolkata
+208,208,Common Cold,Adalberto Lubowitz,Chicago
+209,209,Pneumonia,Liam Sawayn,Dhaka
+210,210,Pneumonia,Jovanny Bogan,Pune
+211,211,Pneumonia,Jarred Davis,Delhi 
+212,212,Pneumonia,Mr. Joanne Mueller,New York
+213,213,Pneumonia,Elton Lakin,Paris
+214,214,Pneumonia,Edison Padberg,France
+215,215,Pneumonia,Julius Batz Sr.,Bengaluru
+216,216,Pneumonia,Amya Gerlach,Mumbai
+217,217,Dimorphic hemmorhoids(piles),Aniya Goldner,Kolkata
+218,218,Dimorphic hemmorhoids(piles),Vilma Mraz,Chicago
+219,219,Dimorphic hemmorhoids(piles),Ms. Maye White,Dhaka
+220,220,Dimorphic hemmorhoids(piles),Vivien Jewess,Pune
+221,221,Dimorphic hemmorhoids(piles),Kayley Runolfsson,Delhi 
+222,222,Dimorphic hemmorhoids(piles),Bell Hyatt,New York
+223,223,Dimorphic hemmorhoids(piles),Jonas Harber,Paris
+224,224,Dimorphic hemmorhoids(piles),Claude Powlowski,France
+225,225,Dimorphic hemmorhoids(piles),Filiberto Simonis,Bengaluru
+226,226,Dimorphic hemmorhoids(piles),Tomas Legros,Mumbai
+227,227,Heart attack,Lois Flatley,Kolkata
+228,228,Heart attack,Dayne Heller,Chicago
+229,229,Heart attack,Eva McClure,Dhaka
+230,230,Heart attack,Terrell Stoltenberg,Pune
+231,231,Heart attack,Paolo Gaylord,Delhi 
+232,232,Varicose veins,Lue Schmidt,New York
+233,233,Varicose veins,Stan Stanton,Paris
+234,234,Varicose veins,Daryl Doyle,France
+235,235,Varicose veins,Ivory Olson,Bengaluru
+236,236,Varicose veins,Davon O'Connell,Mumbai
+237,237,Varicose veins,Bertram Jacobi,Kolkata
+238,238,Varicose veins,Ryley Cassin,Chicago
+239,239,Hypothyroidism,Guillermo Hoeger,Dhaka
+240,240,Hypothyroidism,Garry Toy,Pune
+241,241,Hypothyroidism,Cesar Will,Delhi 
+242,242,Hypoglycemia,Emory Rosenbaum DVM,New York
+243,243,Hypoglycemia,Wellington Hills V,Paris
+244,244,Hypoglycemia,Zoila Block,France
+245,245,Hypoglycemia,Pink Mueller,Bengaluru
+246,246,Hypoglycemia,Macy Goldner,Mumbai
+247,247,Hypoglycemia,Madyson Bahringer,Kolkata
+248,248,Hypoglycemia,Bridie Thompson,Chicago
+249,249,Hypoglycemia,Nina Willms,Dhaka
+250,250,Hypoglycemia,Camren Feeney,Pune
+251,251,Hypoglycemia,Juana Roob,Delhi 
+252,252,Osteoarthristis,Curtis Ernser,New York
+253,253,Osteoarthristis,Norene Kilback Jr.,Paris
+254,254,Osteoarthristis,Sydni Wintheiser,France
+255,255,Osteoarthristis,Saige Swift,Bengaluru
+256,256,Osteoarthristis,Janae Jakubowski,Mumbai
+257,257,Osteoarthristis,Mr. Virgie Guªann,Kolkata
+258,258,Osteoarthristis,Dr. Golden Casper,Chicago
+259,259,Osteoarthristis,Baron Stanton,Dhaka
+260,260,Osteoarthristis,Junior Kunde,Pune
+261,261,Osteoarthristis,Mary Dach,Delhi 
+262,262,Arthritis,Eleanora Abbott,New York
+263,263,Arthritis,Ashly Bednar,Paris
+264,264,Arthritis,Giovanni Prosacco,France
+265,265,Arthritis,Emilie Russel,Bengaluru
+266,266,Arthritis,Aniya Cassin,Mumbai
+267,267,Arthritis,Mr. Birdie Leuschke,Kolkata
+268,268,Arthritis,Mrs. Robyn Toy,Chicago
+269,269,Arthritis,Marcelo Green,Dhaka
+270,270,Arthritis,Carlo Murazik Jr.,Pune
+271,271,Arthritis,Blaise Gulgowski,Delhi 
+272,272,(vertigo) Paroymsal  Positional Vertigo,Miss Elmo Schumm,New York
+273,273,(vertigo) Paroymsal  Positional Vertigo,Kattie Bergstrom,Paris
+274,274,(vertigo) Paroymsal  Positional Vertigo,Walker Schowalter,France
+275,275,(vertigo) Paroymsal  Positional Vertigo,Everardo Bechtelar,Bengaluru
+276,276,(vertigo) Paroymsal  Positional Vertigo,Miss Ivy Schaefer,Mumbai
+277,277,(vertigo) Paroymsal  Positional Vertigo,Ruben Kuhn,Kolkata
+278,278,(vertigo) Paroymsal  Positional Vertigo,Susan Douglas III,Chicago
+279,279,(vertigo) Paroymsal  Positional Vertigo,Elvie Crona,Dhaka
+280,280,(vertigo) Paroymsal  Positional Vertigo,Dr. Corbin Nienow,Pune
+281,281,(vertigo) Paroymsal  Positional Vertigo,Joel Hoppe,Delhi 
+282,282,Acne,Zachary Hettinger,New York
+283,283,Acne,Mr. Reta Kerluke,Paris
+284,284,Acne,Kiarra Bogan,France
+285,285,Acne,Eli Heathcote IV,Bengaluru
+286,286,Acne,Justine Wyman,Mumbai
+287,287,Acne,Miss Jakayla Beatty,Kolkata
+288,288,Acne,Rey Vandervort MD,Chicago
+289,289,Urinary tract infection,Kylee Wolf,Dhaka
+290,290,Urinary tract infection,Isabella Bins,Pune
+291,291,Urinary tract infection,Audreanne Murphy,Delhi 
+292,292,Urinary tract infection,Leola Rice,New York
+293,293,Urinary tract infection,Adolph Guann,Paris
+294,294,Urinary tract infection,Clovis Fay,France
+295,295,Psoriasis,Kristofer Bahringer,Bengaluru
+296,296,Psoriasis,Mr. Arch Runolfsson,Mumbai
+297,297,Psoriasis,Zoie VonRueden,Kolkata
+298,298,Psoriasis,Ms. Angela Schuppe,Chicago
+299,299,Psoriasis,Alanis Mayert,Dhaka
+300,300,Psoriasis,Dell Wyman,Pune
+301,301,Impetigo,Zoie Mayert,Delhi 
+302,302,Impetigo,Eudora Berge DDS,New York
+303,303,Impetigo,Barry Schimmel,Paris
+304,304,Impetigo,Rhett Gleichner,France
+305,305,Impetigo,Barry Schimmel,Bengaluru
+306,306,Impetigo,Rhett Gleichner,Mumbai
+307,307,Impetigo,Samir Keeling,Kolkata
+
