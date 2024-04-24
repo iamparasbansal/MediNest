@@ -121,14 +121,22 @@ def home():
         symptoms = request.form.get('symptoms')
         print(symptoms)
 
-        if symptoms == "Symptoms":
-            message = "Please either write symptoms or you have written misspelled symptoms"
+        if symptoms == "":
+            message = "Please write some symptoms, example: itching, cough, acidity and so on!"
             return render_template('index.html', message=message)
         else:
+            # Check if the input ends with a comma and remove it if it does
+            if symptoms.endswith(' '):
+                symptoms = symptoms.rstrip()
+            if symptoms.endswith(','):
+                symptoms = symptoms[:-1]
+
             # Split the user's input into a list of symptoms (assuming they are comma-separated)
             user_symptoms = [s.strip() for s in symptoms.split(',')]
+
             # Remove any extra characters, if any
             user_symptoms = [symptom.strip("[]' ") for symptom in user_symptoms]
+
             predicted_disease = get_predicted_value(user_symptoms)
 
             # Get disease information

@@ -1,0 +1,176 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    background-color: #C26972;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.navbar-nav .nav-link {
+    color: #ffffff;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+    color: #000000;
+    transition: color 0.3s ease;
+    position: relative; /* Ensure proper positioning of pseudo-element */
+}
+
+.navbar-nav .nav-link:hover::after,
+.navbar-nav .nav-link.active::after {
+    content: '';
+    position: absolute;
+    bottom: 3px; /* Adjust the distance of the underline from the text */
+    left: 0;
+    width: 100%;
+    height: 2px; /* Set the height of the underline */
+    background-color: #000000; /* Color of the underline */
+}
+
+body {
+    margin-top: 80px;
+    background-image: url('../../static/medicalImage.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: #f8f8f8;
+    background-attachment: fixed;
+}
+
+.my_main_box {
+    background: #ffffff;
+    color: black;
+    border-radius: 10px;
+    padding: 40px;
+    width: 60%;
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.5); /* Horizontal offset, vertical offset, blur radius, spread radius, color */
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+    color: black;
+    margin-top: 0;
+    margin-left: 2px;
+}
+
+.myimg {
+    width: 50px;
+    height: 50px;
+}
+
+.start-speech-button {
+    width: 100%;
+    border: 1px solid white;
+    background-color: #C26972; /* Green background */
+    color: white; /* White text */
+    padding: 10px 24px; /* Padding */
+    font-size: 16px; /* Font size */
+    cursor: pointer; /* Cursor on hover */
+    border-radius: 5px; /* Rounded corners */
+    transition-duration: 0.3s; /* Smooth transition */
+}
+
+.start-speech-button:hover{
+    color:white;
+    background-color: #C26972;
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.5);
+}
+
+.predict-button {
+    width: 100%;
+    border: 1px solid white;
+    background-color: #C26972; /* Green background */
+    color: white; /* White text */
+    padding: 10px 24px; /* Padding */
+    font-size: 16px; /* Font size */
+    cursor: pointer; /* Cursor on hover */
+    border-radius: 5px; /* Rounded corners */
+    transition-duration: 0.3s; /* Smooth transition */
+}
+
+.predict-button:hover{
+    color: white;
+    background-color: #C26972;
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.5);
+}
+
+.my-form-input {
+    border: 1px solid #C26972;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    transition-duration: 0.3s;
+}
+
+.my-form-input:hover {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+}
+
+.my-form-input:focus {
+    border-color: #C26972;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    outline: none; /* Remove the default focus outline */
+}
+
+.ui-autocomplete {
+    max-height: 200px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding: 5px 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.ui-menu-item {
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.ui-menu-item:hover {
+    background-color: #f0f0f0;
+}
+
+.symptom-tag {
+    display: inline-block;
+    background-color: #C26972;
+    color: #fff;
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.symptom-tag:hover {
+    background-color: #C26972;
+}
+
+.tag-remove {
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.my-button{
+    padding:4px;
+    margin: 5px 20px 5px 20px;
+    font-size:20px;
+    font-weight:bold;
+    width:140px;
+    border-radius:5px;
+    background:#ffffff;
+    color:#C26972;
+}
+
+.my-button:hover{
+    box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.5);
+}
+
+.predicted-buttons-class{
+    margin-top: -20px;
+}
+
